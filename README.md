@@ -1,10 +1,10 @@
 =======================================================================
 
-This Project's goal was to introduce us to creating a ChatBot using the
-OPENAI API which was really exciting. I am really hoping to continue
-using this type of technology although I wouldn't say that it would
-be a focus of mine I know for sure it's value moving forward in my
-career.
+This Project was an assignment meant as an introduction to OpenAI. Student's
+were tasked with building the connection and prompting the AI with
+a character from a game or movie, giving the AI a storied background.
+
 Cheers,
 Dylan
+
 =======================================================================
